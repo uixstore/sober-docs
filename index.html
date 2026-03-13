@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sober Documentation</title>
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <style type="text/css">
+    .markdown-section {
+      max-width: 900px;
+    }
+    h1, h2, h3, p.warn, .alert {
+      clear: both;
+    }
+    img {
+      padding: 4px;
+      border: 1px solid #ccc;
+    }
+    img+em {
+      text-align: center;
+      display: block;
+    }
+    .clear {
+      clear: both;
+    }
+    .sidebar-nav > ul {
+      margin-left: 20px;
+    }
+    .sidebar li > p {
+      margin-left: 5px;
+    }
+    @media (min-width: 600px) {
+      img[src$="alignright"],
+      .image-right {
+        float: right;
+        margin: 0 0 20px 40px;
+        max-width: 33.33%;
+      }
+      img[src$="alignleft"],
+      .image-left {
+        float: left;
+        margin: 0 40px 20px 0;
+        max-width: 33.33%;
+      }
+      img[src$="alignrightfull"] {
+        float: right;
+        margin: 0 0 20px 20px;
+      }
+      img[src$="alignleft50"] {
+        float: left;
+        width: 46%;
+        margin: 0 2% 2% 0;
+      }
+
+      img[src$="alignleft50"]:nth-child(2n) {
+        clear: right;
+        margin-right: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+      name: 'Sober Documentation',
+      executeScript: true,
+      loadNavbar: true,
+      loadSidebar: true,
+      subMaxLevel: 2,
+      maxLevel: 3,
+      homepage: 'getting-started/introduce.md',
+      search: {
+        noData: 'No Results!',
+        paths: 'auto',
+        placeholder: 'Type to search'
+      },
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      'flexible-alerts': {
+        style: 'flat'
+      }
+    }
+  </script>
+  <script src="//unpkg.com/docsify@4.6.7/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+</body>
+</html>
