@@ -1,5 +1,319 @@
 # Update History
 
+**Version 3.6.7**
+- Updated - Update bundled plugins.
+- Updated - Update WooCommerce templates.
+
+**Version 3.6.6**
+- Updated - Update bundled plugins.
+- Updated - Update WooCommerce templates.
+
+**Version 3.6.5**
+- Updated - Update bundled plugins.
+- Updated - Update WooCommerce templates.
+- Fixed - Fix CSS issues with Cart and Checkout blocks.
+
+**Version 3.6.4**
+- Updated - Update bundled plugins.
+- Updated - Update WooCommerce templates.
+
+**Version 3.6.3**
+- Fixed - Fix missing div placement in checkout login form template.
+
+**Version 3.6.2**
+- Update - Update WC templates.
+
+**Version 3.6.1**
+- Update - Update WC templates.
+
+**Version 3.6.0**
+- Security - Fixed broken access control in the save_menu_item_data function by adding proper permission and nonce checks.
+
+**Version 3.5.13**
+Update - Update bundled plugins.
+Update - Update WC templates.
+
+**Version 3.5.12**
+- Update - Update bundled plugins
+- Fix - Issue with Product Quick View allowing access to private/hidden products.
+
+**Version 3.5.11**
+- Update - Update bundled plugins.
+- Update - Update WC templates.
+
+**Version 3.5.10**
+- Update - Update WC templates.
+
+**Version 3.5.9**
+- Update - Update bundled plugins.
+- Update - Update WC templates.
+
+**Version 3.5.8**
+- Improve - Implement debounce for search function to improve performance.
+- Update - Update version of bundled plugins.
+- Update - Update WC templates.
+- Update - Update CSS to support new style for invalid swatches.
+- Fix - Fix CSS issues of missing CSS for `screen-reader-text` extenders.
+
+
+**Version 3.5.7**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.5.6**
+- Fix - The appearance issue with product sorting options.
+
+**Version 3.5.5**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Resolved compatibility issues with WPML for AJAX search.
+
+**Version 3.5.4**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Elementor Full Width template does not work properly.
+
+**Version 3.5.3**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.5.2**
+- Fix - Some settings of the theme do not work properly.
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 3.5.1**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Remove warnings of loading translations too soon.
+
+**_Addons Plugin_**
+- Fix - Change the textdomain to "sober-addons" to fix the problem with translation files.
+
+!> **Translation Update Required:** This release of Sober Addons includes substantial code changes that require translations to be re-generated. If you have created custom translations, they will need to be updated to ensure proper display of text in your chosen language. We apologize for any inconvenience this may cause.
+
+
+**Version 3.5.0**
+
+**_Theme_**
+- Update - Update plugins.
+- New - Add a new setting to change the position of the category description.
+- Tweak - Support sharing products via WhatsApp.
+- Tweak - Support custom wishlist icons on the header.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - CSS issues with the product card.
+
+**_Addons Plugin_**
+- Fix - Warnings with Elementor widgets.
+- Fix - Elementor module Motion doesn't work with new containers.
+
+
+**Version 3.4.24**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.23**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.22**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - CSS issues with the Cart and Checkout blocks.
+
+
+**Version 3.4.21**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Fix - Warnings with the Elementor widget Banner.
+- Fix - Style issues with the Size Guide modal.
+
+
+**Version 3.4.20**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - CSS issues of WooCommerce notices.
+
+
+**Version 3.4.19**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.18**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Infinite scrolling doesn't work after filtering products.
+- Fix - Issues with the size of quantity input on mobile.
+- Fix - Font issues with Google fonts.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.17**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Fix - The fatal error with widget Products Filter when the filter by stock status is enabled.
+
+
+**Version 3.4.16**
+
+**_Theme_**
+- Fix - The CSS issue with pagination of Related Products carousel.
+
+**_Addons Plugin_**
+- Tweak - Product Tabs now supports customzing tabs of group.
+
+
+**Version 3.4.15**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Tweak - Product Grid now supports a minimum of 2 columns.
+
+
+**Version 3.4.14**
+
+**_Theme_**
+- Update - Update plugins.
+- New - Support the new product comparison plugin.
+- Improve - Add new options to display social icons on header and topbar (using shortcode `[sober_social_menu]`).
+- Improve - Add a new option to display the search form in the flyout menu of header v6.
+
+**_Addons Plugin_**
+- New - Add new shortcode `[sober_social_menu]`
+- Improve - Add new option to display default products in Product Grid shortcodes and Elementor widgets.
+
+
+**Version 3.4.13**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - CSS of the Cart and Checkout blocks.
+
+**_Addons Plugin_**
+- Fix - Error of the Partners shortcodes if the WPB plugin is not installed.
+
+
+**Version 3.4.12**
+
+**_Theme_**
+- Update - Update plugins.
+- Improve - Support X icon with x.com domain URLs.
+- Improve - Using Flexbox in the product grid.
+- Improve - Sticky header with the admin bar on top.
+- Fix - Responsive issues with wishlist modal on mobile.
+- Fix - The mini cart does not update sometimes.
+- Fix - Warnings with the Instagram feed.
+- Fix - Warnings with PHP 8.
+
+**_Addons Plugin_**
+- Fix - Error when setting the portfolio page as the frontpage.
+
+
+**Version 3.4.11**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Product tabs do not work properly with custom catalog template of Elementor Pro.
+
+**_Addons Plugin_**
+- Tweak - Allow Youtube iframe in the size guide content.
+- Fix - Lacks of style for the Team Member widget of Elementor when there is no social icons.
+
+
+**Version 3.4.10**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Fix warnings from Instagram feed.
+- Fix - Layout issues of product layout v6.
+
+
+**Version 3.4.9**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Layout issues of the checkout page with 2 columns.
+- Fix - CSS issues of the wishlist button on mobile.
+
+**_Addons Plugin_**
+- Fix - Warnings with Elementor widgets.
+- Fix - Icons issue with updated FontAwesome5 of WPBakery Page Builder.
+- Fix - The Products Filter widget does not work properly with Arabic language.
+
+
+**Version 3.4.8**
+
+**_Theme_**
+- Update - Update plugins.
+- New - Add a new option for checkout layout 2 columns
+- Fix - Layout issues with RTL
+- Fix - The issue with the transparent header on My Account page
+- Fix - Typography settings do not preview properly
+
+
+**Version 3.4.7**
+
+**_Theme_**
+- Improve - Support a new wishlist plugin that provides more features than the current one does. [WCBoost - Wishlist](https://wcboost.com/plugin/woocommerce-wishlist/)
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.6**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 3.4.5**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 3.4.4**
+
+**_Theme_**
+- Update - Update pluings.
+- Improve - Minify CSS files to improve performance.
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 3.4.3**
+
+**_Theme_**
+- Update - Update plugins.
+- Update - Update included templates.
+- Improve - Support more social icons (of Whatsapp, Amazon, Snapchat, Telegram, Slack and email).
+- Fix - JS errors with the Display Settings meta box.
+
+**_Addons Plugin_**
+- Fix - The **Product Tabs** does't follow the option of `orderby`.
 
 **Version 3.4.2**
 
